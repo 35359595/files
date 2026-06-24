@@ -1,0 +1,3 @@
+ServerAddress,DeviceConfig,ClusterName,LinkType
+ufm.example.net,ufm-3.0,cluster-a,XDR
+switch.example.net,ib,cluster-a,XDR

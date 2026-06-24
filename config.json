@@ -1,0 +1,27 @@
+{
+  "process_count": 25,
+  "credentials": {
+    "UFM3": [
+      {
+        "username": "ufm3-user",
+        "password": "ufm3-password"
+      }
+    ],
+    "IB": [
+      {
+        "username": "ib-user",
+        "password": "ib-password"
+      }
+    ]
+  },
+  "Azure_blob": {
+    "account_name": "<storage-account>",
+    "container_name": "<container>",
+    "upload_folder_path": "telemetry/iblink",
+    "account_url": "",
+    "account_key": "",
+    "tenant_id": "",
+    "client_id": "",
+    "client_secret": ""
+  }
+}

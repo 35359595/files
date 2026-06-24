@@ -1,0 +1,15 @@
+# ============================================================
+# IB Telemetry Collection - Python Dependencies
+# Install with: pip install -r requirements.txt
+# ============================================================
+# Core dependencies
+pandas==3.0.2
+paramiko==4.0.0
+
+# Required by paramiko (explicit for stability)
+cryptography
+
+# Azure Blob upload
+aiohttp
+azure-identity
+azure-storage-blob
